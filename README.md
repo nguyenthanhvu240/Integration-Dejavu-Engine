@@ -9,8 +9,8 @@ A decoy in cybersecurity is a false or deceptive system, network, or resource se
 # Installation 
 [Check here](https://www.youtube.com/watch?v=FhF6fT8OHjA).
 # Integration
-On the Dejavu Engine server, replace the add-server-decoys.php file with the file that integrates decoys MS17-010, SAMBA CVE-2017-7494, WSO2 CVE-2022-29464 on this project
+On the Dejavu Engine server, replace the add-server-decoys.php file with the file that integrates decoys MS17-010, SAMBA CVE-2017-7494, WSO2 CVE-2022-29464 on this project.
 # Tips
-Decoys are deployed using Docker containers. You can integrate additional decoys as needed, as long as the image contains CVEs
+Decoys are deployed using Docker containers. You can integrate additional decoys as needed, as long as that image had CVEs.
 # Authors
 Thank you [Bhadresh Patel](https://x.com/bhdresh) and [Harish Ramadoss](https://x.com/hramados) for creating this amazing project.
