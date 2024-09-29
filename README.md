@@ -1,10 +1,10 @@
-# What is Honeypot ?
-A honeypot is a cybersecurity mechanism designed to detect, deflect, or study attempts to gain unauthorized access to information systems. It is essentially a decoy system or resource, set up to look like a legitimate target, but it is isolated and closely monitored.
-# Why should we use Honeypot ? 
+# What is a Honeypot?
+A honeypot is a cybersecurity mechanism designed to detect, deflect, or study attempts to gain unauthorized access to information systems. It is essentially a decoy system or resource set up to look like a legitimate target, but it is isolated and closely monitored.
+# Why Should We Use a Honeypot?
 Honeypots are often used in cybersecurity to strengthen defenses, identify vulnerabilities, and gather intelligence on attackers without compromising the actual infrastructure.
-# What is Dejavu Honeypot ?
+# What is Dejavu Honeypot?
 [Check here](https://github.com/bhdresh/Dejavu).
-# What is decoys ?
+# What is a Decoy?
 A decoy in cybersecurity is a false or deceptive system, network, or resource set up to attract attackers and mislead them away from valuable or critical assets. Decoys are part of deception technology, which aims to trick malicious actors into interacting with controlled, non-essential environments rather than real systems.
 # Installation 
 [Check here](https://www.youtube.com/watch?v=FhF6fT8OHjA).
